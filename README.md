@@ -2,8 +2,7 @@
 
 📖 I’m currently pursuing my B-Tech 3rd year in Computer Scienece Department from SRM University, Chennai.
 
-👨🏻‍💻 I am intrested in Coding, Data Science, ML.
-
+👨🏻‍💻 I am interested in Coding, Data Science, ML.
 
 <!--
 **SaiAvinash2002/SaiAvinash2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
