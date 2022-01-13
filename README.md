@@ -6,7 +6,16 @@
 
 👨🏻‍💻 I am interested in Coding, Data Science, Machine Learning.
   <body>
+    <h2 align="center"> My Skill Set</h2>
+  <h3 align="center"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"  height=60 width=60>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" target="_blank"  height=60 width=60>  
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" target="_blank"  height=60 width=60>  
+    <img src="https://icons-for-free.com/iconfiles/png/512/NumPy-1324888747155633047.png" target="_blank"  height=60 width=60>  
+    <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" target="_blank"  height=60 width=60>  
+    <h3>
     <br>
+    <h2 align="center"> Follow On</h2>
   <h3 align="center"> 
     <a href="https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" target="_blank"  height=50 width=50>  </a>
      <a href="https://twitter.com/VagicherlaA"  > <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" target="_blank"  height=50 width=50>  </a>
