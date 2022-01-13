@@ -1,9 +1,15 @@
-### Hi there, This is VAGICHERLA SAI AVINASH 👋
+<!DOCTYPE>
+<html>
+  <p align="center"> <strong> Hi there, This is VAGICHERLA SAI AVINASH 👋 </strong> </p>
 
 📖 I’m currently pursuing my B-Tech 3rd year in Computer Scienece Department from SRM University, Chennai.
 
-👨🏻‍💻 I am interested in Coding, Data Science, ML.
-
+👨🏻‍💻 I am interested in Coding, Data Science, Machine Learning.
+  <body>
+  <h3 align="left"> Follow Me On</h3>
+    <a href="https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"   height=50 width=50>  </a>
+  </body>  
+</html>
 <!--
 **SaiAvinash2002/SaiAvinash2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
