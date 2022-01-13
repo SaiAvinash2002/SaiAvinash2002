@@ -7,7 +7,7 @@
 👨🏻‍💻 I am interested in Coding, Data Science, Machine Learning.
   <body>
   <h3 align="left"> Follow Me On</h3>
-    <a href="https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"   height=50 width=50>  </a>
+    <a href="https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" target="_blank"  height=50 width=50>  </a>
   </body>  
 </html>
 <!--
