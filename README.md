@@ -1,13 +1,18 @@
 <!DOCTYPE>
 <html>
-  <p align="center"> <strong> Hi there, This is VAGICHERLA SAI AVINASH 👋 </strong> </p>
-
+  <h2 align="center"> <strong> Hi there, This is VAGICHERLA SAI AVINASH 👋 </strong> </h2>
+<br>
 📖 I’m currently pursuing my B-Tech 3rd year in Computer Scienece Department from SRM University, Chennai.
 
 👨🏻‍💻 I am interested in Coding, Data Science, Machine Learning.
   <body>
-  <h3 align="left"> Follow Me On</h3>
+    <br>
+  <h3 align="center"> 
     <a href="https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" target="_blank"  height=50 width=50>  </a>
+     <a href="https://twitter.com/VagicherlaA"  > <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" target="_blank"  height=50 width=50>  </a>
+     <a href="https://leetcode.com/saiavinashvenkata/"  > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" target="_blank"  height=50 width=50>  </a>
+         <a href="https://www.hackerrank.com/RA1911003010754"  > <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" target="_blank"  height=50 width=50>  </a>
+    </h3>
   </body>  
 </html>
 <!--
