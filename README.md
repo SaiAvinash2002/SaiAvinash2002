@@ -2,8 +2,9 @@
 <html>
   <h2 align="center"> <strong> Hi there, This is VAGICHERLA SAI AVINASH 👋 </strong> </h2>
 <br>
-📖 I’m currently pursuing my B-Tech 3rd year in Computer Scienece Department from SRM University, Chennai.
-
+📖 I am currently purusing my Masters in Computer Science from Texas A&M University.
+  
+📖 I have completed my Under Graduation in Computer Science Department from SRM University, Chennai.<br>
 👨🏻‍💻 I am interested in Coding, Data Science, Machine Learning.
   <body>
     <h2 align="center"> My Skill Set</h2>
