@@ -22,6 +22,10 @@
      <a href="https://twitter.com/VagicherlaA"  > <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" target="_blank"  height=50 width=50>  </a>
      <a href="https://leetcode.com/saiavinashvenkata/"  > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" target="_blank"  height=50 width=50>  </a>
          <a href="https://www.hackerrank.com/RA1911003010754"  > <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" target="_blank"  height=50 width=50>  </a>
+    <br>
+    <br>
+    <br>
+    <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiAvinash2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
     </h3>
   </body>  
 </html>
