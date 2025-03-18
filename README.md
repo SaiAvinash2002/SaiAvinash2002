@@ -17,15 +17,14 @@
       <div>
         <ul style="text-decoration: none;">
           <li> 📚 I am currently pursuing my Masters in Computer Science from Texas A&M
-        University.</li>
+        University.</li><br />  
           <li>📚 I have completed my Under Graduation in Computer Science
-        Department from SRM University, Chennai.</li>
-          <li>👨‍💻 I am interested in Web Designing and Competative Programming.</li>
+        Department from SRM University, Chennai.</li><br />  
+          <li>👨‍💻 I am interested in Web Designing and Competative Programming.</li><br />  
           <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
         </ul>
       </div>
     </div>
-       <br />   <br />   <br />
   </div>
   <body>
     <h2 align="center">My Skill Set</h2>
