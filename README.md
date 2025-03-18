@@ -23,7 +23,7 @@
       <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" target="_blank"  height=60 width=60>
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" target="_blank"  height=60 width=60>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" target="_blank"  height=60 width=60>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" target="_blank"  height=70 width=70>
     </h3>
     <br>
     <h2 align="center"> Follow On</h2>
@@ -35,7 +35,7 @@
       <br>
       <br>
       <br>
-      <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiAvinash2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+      <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiAvinash2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sai_avinash" /></p>
     </h3>
   </body>  
 </html>
