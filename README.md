@@ -3,7 +3,8 @@
   <div style="display: flex">
     <div>
       <h2 align="center">
-        <strong> Hi there, This is VAGICHERLA SAI AVINASH 👋 </strong>
+        <strong> Hi there, This is VAGICHERLA SAI AVINASH 
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhmaDE5ZHpwZHhpc2xwMHZibGI0YmJiMjU5ZjRmdXJ6M2pua3ZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></strong>
       </h2>
       <br />
       <img
