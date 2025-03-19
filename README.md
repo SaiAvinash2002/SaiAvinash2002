@@ -17,7 +17,7 @@
       <div>
         <ul style="text-decoration: none;">
           <li> 📚 I am currently pursuing my Masters in Computer Science from Texas A&M
-        University.</li><br />  
+        University.</li><br/>  
           <li>📚 I have completed my Under Graduation in Computer Science
         Department from SRM University, Chennai.</li><br />  
           <li>👨‍💻 I am interested in Web Designing and Competative Programming.</li><br />  
@@ -27,6 +27,7 @@
     </div>
   </div>
   <body>
+    <br />  
     <h2 align="center">My Skill Set</h2>
     <h3 align="center">
       <img
