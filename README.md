@@ -21,7 +21,7 @@
         University.</li><br/>  
           <li>📚 Back in India I've done my Under Graduation in Computer Science
         Department from SRM University, Chennai.</li><br />  
-          <li>👨‍💻 I am interested in IOS Development, Web Development and Competative Programming.</li><br />  
+          <li>👨‍💻 I am interested in Web Development and Competative Programming.</li><br />  
           <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
         </ul>
       </div>
